@@ -15,18 +15,8 @@
 </template>
 
 <script>
-import Home from './components/Home'
-import Music from './components/Music'
-import About from './components/About'
-import Contact from './components/Contact'
-
 export default{
-    components:{
-        Home,
-        Music,
-        About,
-        Contact
-    }
+    name: "App"
 }
 </script>
 
