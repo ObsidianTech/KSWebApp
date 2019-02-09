@@ -53,8 +53,7 @@ nav a{
     text-decoration: none;
     font-family: 'Teko', sans-serif;
     color: #F22ADA;
-    padding: 5px;
-    font-size:20px;
+    padding: 3px;
 }
 nav h1{
     font-family: 'VT323', monospace;
