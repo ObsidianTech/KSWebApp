@@ -44,6 +44,7 @@ nav a{
     font-family: 'Teko', sans-serif;
     color: #F22ADA;
     padding: 3px;
+    text-align: center;
 }
 nav h1{
     font-family: 'VT323', monospace;
